@@ -24,7 +24,7 @@
 ## 🔧 Technologies & Tools 
 
 - **Languages**: Java, Kotlin, JavaScript
-- **Technologies/Frameworks**:  Jetpack Libraries, MVVM, Coroutines & Flow, Room, Retrofit, Hilt, Dagger 2, Paging, Navigation
+- **Technologies/Frameworks**:  Jetpack Compose, MVVM, Coroutines & Flow, Room, Retrofit, Hilt, Dagger 2, Paging, Navigation
 Component, DataStore, Push Notification(FCM), LiveData, Github
 - **Coursework**: OOPS, Data Structures,Problem Solving
 
