@@ -29,7 +29,7 @@ Component, DataStore, Push Notification(FCM), LiveData, Github
 - **Coursework**: OOPS, Data Structures,Problem Solving
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajalbnl&show_icons=true&locale=en&layout=compact&theme=dark" alt="sajalbnl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajalbnl&show_icons=true&locale=en&layout=compact" alt="sajalbnl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalbnl&show_icons=true&locale=en&theme=dark" alt="sajalbnl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalbnl&show_icons=true&locale=en" alt="sajalbnl" /></p>
 
