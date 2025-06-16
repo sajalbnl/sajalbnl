@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Sajal</h1>
-<h3 align="center">Android Developer | Jetpack Compose Enthusiast | Blockchain & Web3 Explorer Passionate about building seamless, high-performance mobile apps using Kotlin, MVVM, and modern UI/UX principles.</h3>
+<h3 align="center">Software Developer | Blockchain & Web3 Explorer Passionate about building seamless, high-performance mobile apps using Kotlin, MVVM, and modern UI/UX principles.</h3>
 
  
 
 - 🔭 I’m currently working on [Starknet Phone](https://github.com/sajalbnl/starknet-phone)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Android Development**
 
