@@ -1,13 +1,11 @@
 <h1 align="center">Hi there👋, I'm Sajal</h1>
-<h3 align="center">Software Developer | Blockchain & Web3 Explorer Passionate about building seamless, high-performance mobile apps using Kotlin, MVVM, and modern UI/UX principles.</h3>
+<h3 align="center">Software Developer | Blockchain & Web3 Explorer | Crypto Native Dev & DeFi Chad </h3>
 
  
 
 - 🔭 I’m currently working on [Starknet Phone](https://github.com/sajalbnl/starknet-phone)
 
 - 🌱 I’m currently learning **Solidity**
-
-- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **sajalbnl123@gmail.com**
 
@@ -23,13 +21,12 @@
 
 ## 🔧 Technologies & Tools 
 
-- **Languages**: Java, Kotlin, JavaScript
-- **Technologies/Frameworks**:  Jetpack Compose, MVVM, Coroutines & Flow, Room, Retrofit, Hilt, Dagger 2, Paging, Navigation
-Component, DataStore, Push Notification(FCM), LiveData, Github
-- **Coursework**: OOPS, Data Structures,Problem Solving
+- **Languages**: Solidity (smart contracts are my jam), Python, JavaScript, TypeScript,React Native, Kotlin, JavaScript
+- **Technologies/Frameworks**:  Vue, React (UIs that slap), Hardhat, Foundry,Jetpack Compose
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Crypto Stack**: Uniswap SDK, OpenZeppelin, Chainlink Oracles, ethers.js
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajalbnl&show_icons=true&locale=en&layout=compact" alt="sajalbnl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalbnl&show_icons=true&locale=en" alt="sajalbnl" /></p>
+## 🔧 Join the Revolution
+Wanna build the next big thing in DeFi? Fork my repos, ping me on Telegram, or vibe with me on X. Let’s ship some code that breaks CeFi and keeps the blockchain humming.
 
