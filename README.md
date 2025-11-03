@@ -3,13 +3,13 @@
 
  
 
-- 🔭 I’m currently working on [Starknet Phone](https://github.com/sajalbnl/starknet-phone)
+- 🔭 I’m currently working on [Banger fun](https://www.notion.so/Banger-fun-1eca28e54453807dbb7cf335c4e0c1d6?source=copy_link)
 
 - 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **sajalbnl123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1N2gecMdoN7dGj2mr6Sxd67x9vT-RfJPR](https://drive.google.com/drive/folders/1N2gecMdoN7dGj2mr6Sxd67x9vT-RfJPR)
+- 📄 Know about my experiences -> [Notion](https://www.notion.so/Sajal-s-Proof-of-Work-2a089243e7b880c48daffa9b84b09419)
 
 ## 📫 Connect with me
 <p align="left">
