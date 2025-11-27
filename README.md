@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sajal</h1>
-<h3 align="center">Software Developer | Blockchain & Web3 Explorer | Crypto Native Dev & DeFi Chad </h3>
+<h3 align="center">Software Developer | Blockchain & Web3 Explorer </h3>
 
  
 
