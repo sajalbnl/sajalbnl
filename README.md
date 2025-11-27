@@ -3,9 +3,7 @@
 
  
 
-- 🔭 I’m currently working on [Banger fun](https://www.notion.so/Banger-fun-1eca28e54453807dbb7cf335c4e0c1d6?source=copy_link)
-
-- 🌱 I’m currently learning **Solidity**
+- 🔭 I’m currently working on [BetSwipe](https://github.com/sajalbnl/BetSwipe)
 
 - 📫 How to reach me **sajalbnl123@gmail.com**
 
@@ -21,12 +19,8 @@
 
 ## 🔧 Technologies & Tools 
 
-- **Languages**: Solidity (smart contracts are my jam), Python, JavaScript, TypeScript,React Native, Kotlin, JavaScript
-- **Technologies/Frameworks**:  Vue, React (UIs that slap), Hardhat, Foundry,Jetpack Compose
+- **Languages**:JavaScript, TypeScript,React Native, Kotlin, JavaScript
+- **Technologies/Frameworks**:  React (UIs that slap),Jetpack Compose
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Crypto Stack**: Uniswap SDK, OpenZeppelin, Chainlink Oracles, ethers.js
 
-
-## 🔧 Join the Revolution
-Wanna build the next big thing in DeFi? Fork my repos, ping me on Telegram, or vibe with me on X. Let’s ship some code that breaks CeFi and keeps the blockchain humming.
 
