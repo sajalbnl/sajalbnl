@@ -1,27 +1,35 @@
-<h1 align="center">Hi there👋, I'm Sajal</h1>
-<h3 align="center">Software Developer | Blockchain & Web3 Explorer </h3>
+<h1 align="center">Hi, I'm Sajal 👋</h1>
+<h3 align="center">Mobile-first web3 builder. Frontend-heavy full-stack.</h3>
 
- 
+<p align="center">Ship fast, iterate faster.</p>
 
-- 🔭 I’m currently working on [BetSwipe](https://github.com/sajalbnl/BetSwipe)
+---
 
-- 📫 How to reach me **sajalbnl123@gmail.com**
+### 🛠 What I'm building
 
-- 📄 Know about my experiences -> [Notion](https://www.notion.so/Sajal-s-Proof-of-Work-2a089243e7b880c48daffa9b84b09419)
+- **[BetSwipe](https://betswipe.xyz/)** — mobile prediction market app. Swipe to trade. Built it solo across iOS, Android, and backend. Live with recurring fee revenue.
+- **[Fuss](https://app.fuss.bet/)** — founding team. Perpetual exchange where internet attention is the underlying asset. I own the trading frontend.
 
-## 📫 Connect with me
-<p align="left">
-<a href="https://x.com/ChadLifts07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajal" height="40" width="40" /></a>   
-<a href="https://linkedin.com/in/sajal-bansal-197543202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal-bansal-197543202" height="40" width="40" /></a>
-<a href="https://t.me/Sajbnl" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Sz6lu91x9jqC&format=png&color=000000" alt="sajal-bansal-197543202" height="50" width="50" /></a>
+### 🧰 Stack
 
+React Native · Kotlin · React · Next.js · TypeScript · Node.js · WebSockets · Privy · EVM · iOS & Android
 
-</p>
+### 🧪 Side projects
 
-## 🔧 Technologies & Tools 
+- Polymarket momentum bot for crypto markets
+- Polymarket sports bot, fires on big in-game events for quick 3-4% moves
+- [Hyperliquid TG alert bot](https://t.me/hypersignaltg_bot) because staring at charts is pain
 
-- **Languages**:JavaScript, TypeScript,React Native, Kotlin, JavaScript
-- **Technologies/Frameworks**:  React (UIs that slap),Jetpack Compose
-- **Databases**: MySQL, PostgreSQL, MongoDB
+### 📂 Past work
 
+Mercle (React Native lead, Wallet SDK, on-chain indexing across 5 chains) · RechargeZap (Android wallet flows in Jetpack Compose).
 
+Full POW → **[Notion](https://www.notion.so/Sajal-s-Proof-of-Work-35389243e7b8803db82efe1f8ca45b1b)**
+
+### 📬 Reach me
+
+[twitter](https://x.com/sjlwtf) · [telegram](https://t.me/ChadLifts) · [linkedin](https://www.linkedin.com/in/sajal-bansal-197543202/) · sajalbnl123@gmail.com
+
+---
+
+<p align="center"><i>I build things. Sometimes infra, sometimes bots, sometimes full apps. Always shipping.</i></p>
