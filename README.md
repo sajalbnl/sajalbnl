@@ -8,7 +8,6 @@
 ### 🛠 What I'm building
 
 - **[BetSwipe](https://betswipe.xyz/)** — mobile prediction market app. Swipe to trade. Built it solo across iOS, Android, and backend. Live with recurring fee revenue.
-- **[Fuss](https://app.fuss.bet/)** — founding team. Perpetual exchange where internet attention is the underlying asset. I own the trading frontend.
 
 ### 🧰 Stack
 
