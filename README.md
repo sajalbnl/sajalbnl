@@ -23,7 +23,7 @@ React Native · Kotlin · React · Next.js · TypeScript · Node.js · WebSocket
 
 Mercle (React Native lead, Wallet SDK, on-chain indexing across 5 chains) · RechargeZap (Android wallet flows in Jetpack Compose).
 
-Full POW → **[Notion](https://www.notion.so/Sajal-s-Proof-of-Work-35389243e7b8803db82efe1f8ca45b1b)**
+Full POW → **[Notion](https://www.notion.so/Proof-of-Work-2a289243e7b8804da91dc0feb8601598)**
 
 ### 📬 Reach me
 
