@@ -8,6 +8,7 @@
 ### 🛠 What I'm building
 
 - **[BetSwipe](https://betswipe.xyz/)** — mobile prediction market app. Swipe to trade. Built it solo across iOS, Android, and backend. Live with recurring fee revenue.
+- **[Fuss](https://app.fuss.bet/)** — founding team. Perpetual exchange where internet attention is the underlying asset. I own the trading frontend.
 
 ### 🧰 Stack
 
@@ -23,7 +24,7 @@ React Native · Kotlin · React · Next.js · TypeScript · Node.js · WebSocket
 
 Mercle (React Native lead, Wallet SDK, on-chain indexing across 5 chains) · RechargeZap (Android wallet flows in Jetpack Compose).
 
-Full POW → **[Notion](https://www.notion.so/Proof-of-Work-2a289243e7b8804da91dc0feb8601598)**
+Full POW → **[Notion](https://www.notion.so/Sajal-s-Proof-of-Work-35389243e7b8803db82efe1f8ca45b1b)**
 
 ### 📬 Reach me
 
