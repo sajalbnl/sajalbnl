@@ -28,7 +28,7 @@ Full POW → **[Notion](https://www.notion.so/Sajal-s-Proof-of-Work-35389243e7b8
 
 ### 📬 Reach me
 
-[twitter](https://x.com/sjlwtf) · [telegram](https://t.me/ChadLifts) · [linkedin](https://www.linkedin.com/in/sajal-bansal-197543202/) · sajalbnl123@gmail.com
+[twitter](https://x.com/sjlwtf) · [telegram](https://t.me/sjlwtf) · [linkedin](https://www.linkedin.com/in/sajal-bansal-197543202/) · sajalbnl123@gmail.com
 
 ---
 
